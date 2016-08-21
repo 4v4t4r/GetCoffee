@@ -1,0 +1,18 @@
+c:\users\silence\documents\visual studio 2015\Projects\GetCoffee\GetCoffee\bin\Debug\GetCoffee.exe.config
+c:\users\silence\documents\visual studio 2015\Projects\GetCoffee\GetCoffee\bin\Debug\GetCoffee.exe
+c:\users\silence\documents\visual studio 2015\Projects\GetCoffee\GetCoffee\bin\Debug\GetCoffee.pdb
+c:\users\silence\documents\visual studio 2015\Projects\GetCoffee\GetCoffee\obj\Debug\GetCoffee.csprojResolveAssemblyReference.cache
+c:\users\silence\documents\visual studio 2015\Projects\GetCoffee\GetCoffee\obj\Debug\GetCoffee.Form1.resources
+c:\users\silence\documents\visual studio 2015\Projects\GetCoffee\GetCoffee\obj\Debug\GetCoffee.Properties.Resources.resources
+c:\users\silence\documents\visual studio 2015\Projects\GetCoffee\GetCoffee\obj\Debug\GetCoffee.csproj.GenerateResource.Cache
+c:\users\silence\documents\visual studio 2015\Projects\GetCoffee\GetCoffee\obj\Debug\GetCoffee.exe
+c:\users\silence\documents\visual studio 2015\Projects\GetCoffee\GetCoffee\obj\Debug\GetCoffee.pdb
+D:\Projects\GetCoffee\GetCoffee\bin\Debug\GetCoffee.exe.config
+D:\Projects\GetCoffee\GetCoffee\obj\Debug\GetCoffee.exe
+D:\Projects\GetCoffee\GetCoffee\obj\Debug\GetCoffee.pdb
+D:\Projects\GetCoffee\GetCoffee\bin\Debug\GetCoffee.exe
+D:\Projects\GetCoffee\GetCoffee\bin\Debug\GetCoffee.pdb
+D:\Projects\GetCoffee\GetCoffee\obj\Debug\GetCoffee.csprojResolveAssemblyReference.cache
+D:\Projects\GetCoffee\GetCoffee\obj\Debug\GetCoffee.Form1.resources
+D:\Projects\GetCoffee\GetCoffee\obj\Debug\GetCoffee.Properties.Resources.resources
+D:\Projects\GetCoffee\GetCoffee\obj\Debug\GetCoffee.csproj.GenerateResource.Cache
